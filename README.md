@@ -5,6 +5,6 @@ This repository contains the final year project presentation slides.
 
 ## 📥 Download Slides
 
- [Download PPT](https://github.com/rabia-sarfaraz/chatbot_ppt/raw/main/chatbot_pptx.pptx)
+ [Download PPT](https://github.com/rabia-sarfaraz/chatbot_ppt/raw/master/chatbot_pptx.pptx)
 
- [View PDF Version](https://github.com/rabia-sarfaraz/chatbot_ppt/raw/main/chatbot_pptx.pdf)
+ [View PDF Version](https://github.com/rabia-sarfaraz/chatbot_ppt/raw/master/chatbot_pptx.pdf)
